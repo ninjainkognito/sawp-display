@@ -1,4 +1,4 @@
-# Pyhton Script to use when primary monitor has changed
+# Pyhton Script when primary monitor has changed
 - This happens when you are using DisplayLink Manager
 
 
